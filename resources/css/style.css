@@ -1,6 +1,19 @@
 * {
   text-align: center;
+  font-family: Helvetica;
 }
 .header {
 background-image: url("../images/the-flatiron-building.png");
+color: white;
+}
+.title {
+  font-size: 70px;
+}
+.process {
+  font-size: 32px;
+}
+/* the ../takes you from the "css" folder that the "style.css" document is in, into the "resources" folder, and from there you go to the "images" folder and to your image itself.*/
+
+.new-york {
+  background-image: url("../images/the-flatiron-building.png");
 }
