@@ -12,6 +12,9 @@ color: white;
 .process {
   font-size: 32px;
 }
+.links {
+  font-size: 18px;
+}
 /* the ../takes you from the "css" folder that the "style.css" document is in, into the "resources" folder, and from there you go to the "images" folder and to your image itself.*/
 
 .new-york {
@@ -22,8 +25,13 @@ color: white;
 }
 .broadway {
   font-size: 11px;
+}
 
-
+.h3 {
+  font-size: 23px;
+}
+.h4 {
+  font-weight: normal;
 }
 .footer {
   text-align: left;
