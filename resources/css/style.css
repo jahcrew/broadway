@@ -16,4 +16,17 @@ color: white;
 
 .new-york {
   background-image: url("../images/the-flatiron-building.png");
+  font-size: 23px;
+  color: white;
+
+}
+.broadway {
+  font-size: 11px;
+
+
+}
+.footer {
+  text-align: left;
+  color: white;
+  background-color: dimgray;
 }
